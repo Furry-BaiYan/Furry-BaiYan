@@ -1,15 +1,16 @@
 name: 🐍 Generate Snake Animation
 
 on:
-  # 每12小时自动更新一次
   schedule:
     - cron: "0 */12 * * *"
-  # 允许手动触发
   workflow_dispatch:
-  # 推送到 main 分支时触发
   push:
     branches:
       - main
+
+# 关键：显式授予写入权限
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -28,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🚀 Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
