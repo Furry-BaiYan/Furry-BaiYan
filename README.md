@@ -55,17 +55,19 @@ public class FurryBaiYan {
 
 <div align="center">
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Furry-BaiYan&theme=nord_dark" alt="Stats" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Furry-BaiYan&theme=nord_dark" alt="Top Languages by Repo" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Furry-BaiYan&theme=nord_dark" alt="Top Languages by Commit" height="180"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furry-BaiYan&theme=nord_dark" alt="Profile Details" width="100%"/>
-</a>
+<table style="border:none; background:transparent;">
+  <tr>
+    <td align="center" style="border:none; padding:4px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Furry-BaiYan&theme=2077" width="270" alt="Stats"/>
+    </td>
+    <td align="center" style="border:none; padding:4px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Furry-BaiYan&theme=2077" width="270" alt="Top Languages by Repo"/>
+    </td>
+    <td align="center" style="border:none; padding:4px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Furry-BaiYan&theme=2077" width="270" alt="Top Languages by Commit"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
