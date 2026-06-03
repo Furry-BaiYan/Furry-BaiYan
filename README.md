@@ -1,16 +1,107 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Furry-BaiYan/Furry-BaiYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Hi+There!+I'm+Furry-BaiYan+🐾;Furry+%26+Developer+%7C+兽人永不为奴;Welcome+to+my+profile!+🦊)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=Furry-BaiYan&color=a78bfa&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🦊 About Me | 关于我
+
+```java
+public class FurryBaiYan {
+
+    String  community = "🐾 Furry | 兽圈";
+    String  location  = "🌏 China";
+
+    String[] languages = { "Java", "C++", "Android (Learning 🌱)" };
+
+    String   motto     = "Code with passion, live with fur! 🐾";
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to Furry-BaiYan's profile! 🦊");
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack | 技术栈
+
+<div align="center">
+
+<!-- 主要语言图标 -->
+<img src="https://skillicons.dev/icons?i=java,cpp,androidstudio&theme=dark&perline=3" />
+
+<br/><br/>
+
+<!-- 语言标签 -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<!-- 学习中标识 -->
+<br/>
+
+![Currently Learning](https://img.shields.io/badge/🌱_Currently_Learning-Android_Development-3DDC84?style=flat-square)
+
+</div>
+
+---
+
+## 📊 贡献统计卡片
+
+<div align="center">
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Furry-BaiYan&theme=nord_dark" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Furry-BaiYan&theme=nord_dark" alt="Top Languages by Repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Furry-BaiYan&theme=nord_dark" alt="Top Languages by Commit" height="180"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furry-BaiYan&theme=nord_dark" alt="Profile Details" width="100%"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Snake 贡献动画
+
+<div align="center">
+
+> 🐍 贪吃蛇正在把你的贡献格子都吃掉！
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Furry-BaiYan/Furry-BaiYan/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Furry-BaiYan/Furry-BaiYan/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github-snake"
+    src="https://raw.githubusercontent.com/Furry-BaiYan/Furry-BaiYan/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+🐾 *"In the land of code and fur, Furry-BaiYan roams free."* 🐾
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
+</div>
